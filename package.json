@@ -1,0 +1,20 @@
+{
+  "name": "loruki-wpk-rct-org",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pqxglobal/loruki-wpk-rct-org.git"
+  },
+  "keywords": [],
+  "author": "PQX Global",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pqxglobal/loruki-wpk-rct-org/issues"
+  },
+  "homepage": "https://github.com/pqxglobal/loruki-wpk-rct-org#readme"
+}
