@@ -1,7 +1,7 @@
 {
   "name": "loruki-wpk-rct-org",
   "version": "1.0.0",
-  "description": "",
+  "description": "Plain html and css training transfered to webpack with sass and postcss",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/pqxglobal/loruki-wpk-rct-org/issues"
   },
-  "homepage": "https://github.com/pqxglobal/loruki-wpk-rct-org#readme"
+  "homepage": "https://github.com/pqxglobal/loruki-wpk-rct-org#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.9.2"
+  }
 }
