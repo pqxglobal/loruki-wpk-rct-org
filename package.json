@@ -4,7 +4,11 @@
   "description": "Plain html and css training transfered to webpack with sass and postcss",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack serve",
+    "watch": "webpack --watch",
+    "build-prod": "webpack --mode=production",
+    "build-dev": "webpack --mode=development",
+    "clean": "rimraf ./dist"
   },
   "repository": {
     "type": "git",
